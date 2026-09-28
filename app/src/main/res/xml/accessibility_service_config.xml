@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged"
+    android:accessibilityFlags="flagReportViewIds|flagRetrieveInteractiveWindows"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:notificationTimeout="100"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/accessibility_desc"
+    android:settingsActivity="com.skipad.ui.SettingsActivity" />
+<!--
+  packageNames 故意留空：监控所有应用，由 SkipAdService 在 onAccessibilityEvent
+  中按"当前前台包名 + 内置规则分片"做精准过滤，从而支持动态规则集合。
+-->

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-debug-4:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-main-6:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-debug-4:\\raw_rules_builtin.json.flat",
+        "source": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-main-6:\\raw\\rules_builtin.json"
+    },
+    {
+        "merged": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-debug-4:\\layout_overlay_debug.xml.flat",
+        "source": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-main-6:\\layout\\overlay_debug.xml"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-debug-4:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-main-6:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.skipad.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.skipad.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

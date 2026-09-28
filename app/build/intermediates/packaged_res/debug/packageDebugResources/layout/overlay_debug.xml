@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/overlayRoot"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#CC000000"
+    android:padding="3dp">
+
+    <!-- 标题栏：按住拖动；右侧 × 隐藏 -->
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#AA222222"
+        android:padding="2dp">
+
+        <TextView
+            android:id="@+id/dragTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="SkipAd 调试"
+            android:textSize="11sp"
+            android:textColor="#00FF00"
+            android:paddingStart="4dp" />
+
+        <TextView
+            android:id="@+id/btnHide"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  ×  "
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <!-- 日志区：拖动标题栏下方填充，可滚动 -->
+    <TextView
+        android:id="@+id/logText"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="10sp"
+        android:textColor="#00FF00"
+        android:scrollbars="vertical"
+        android:padding="4dp" />
+
+    <!-- 右下角拉伸手柄 -->
+    <View
+        android:id="@+id/resizeHandle"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_gravity="bottom|end"
+        android:background="#8844AA44" />
+</LinearLayout>

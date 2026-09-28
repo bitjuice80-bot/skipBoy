@@ -1,0 +1,32 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.skipad'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.skipad"
+        minSdk 24          // Android 7.0，覆盖绝大多数仍在使用中的工业终端
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false   // 低资源诉求：先保证可调试；上线可开启 R8
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    // 仅使用 Android 框架内置的 org.json，零额外依赖，保持小体积
+}

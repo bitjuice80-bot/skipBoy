@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+id btnExport
+id btnHide
+id btnImport
+id btnOpenService
+id btnUpdate
+id btnWhitelist
+id dragTitle
+id logText
+id overlayRoot
+id resizeHandle
+id swDebug
+id tvLog
+id tvStatus
+layout activity_settings
+layout overlay_debug
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw rules_builtin
+string accessibility_desc
+string app_name
+string btn_export_log
+string btn_import_local
+string btn_open_service
+string btn_update_rules
+string btn_whitelist
+string status_idle
+string toast_import_done
+string toast_service_off
+string toast_update_done
+string toast_updating
+xml accessibility_service_config

@@ -1,0 +1,14 @@
+[
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "跳过",        "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "跳过广告",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "关闭广告",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "我知道了",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "下次再说",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "以后再说",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "稍后更新",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "不接收",      "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "暂不",        "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "残忍拒绝",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_CONTAINS", "matchValue": "继续浏览",    "action": "click" },
+  { "packageName": "*", "matchType": "TEXT_EQUALS",   "matchValue": "关闭",        "action": "click" }
+]

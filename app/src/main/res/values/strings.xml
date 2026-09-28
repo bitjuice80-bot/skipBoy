@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">少年Jump</string>
+    <string name="accessibility_desc">少年Jump 通过无障碍服务自动跳过开屏广告。开启后将在界面变化时自动识别并点击“跳过”按钮，全程本地运行、不联网。</string>
+    <string name="btn_open_service">开启无障碍服务</string>
+    <string name="btn_update_rules">更新订阅规则</string>
+    <string name="btn_import_local">导入本地规则文件</string>
+    <string name="btn_export_log">导出日志</string>
+    <string name="btn_whitelist">电池白名单引导</string>
+    <string name="status_idle">就绪</string>
+    <string name="toast_service_off">请先在系统设置中开启 少年Jump 无障碍服务</string>
+    <string name="toast_updating">正在更新订阅…</string>
+    <string name="toast_update_done">订阅已更新并去重合并</string>
+    <string name="toast_import_done">本地规则已导入</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\dai79\\.gradle\\daemon\\9.3.0\\com.skipad.app-mergeDebugResources-2:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dai79\\WorkBuddy\\2026-09-25-08-44-42\\SkipAd\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,6,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,325,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,47,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,368,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,205,253,307,360,412,462,505,559,629,686",
+                        "endColumns": "105,43,47,53,52,51,49,42,53,69,56,50",
+                        "endOffsets": "156,200,248,302,355,407,457,500,554,624,681,732"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.skipad.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dai79\\WorkBuddy\\2026-09-25-08-44-42\\SkipAd\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,1,-1,-1,-1,-1,-1,-1,-1,9,-1,-1",
+                        "startColumns": "4,4,-1,-1,-1,-1,-1,-1,-1,4,-1,-1",
+                        "startOffsets": "60,16,-1,-1,-1,-1,-1,-1,-1,466,-1,-1",
+                        "endColumns": "105,43,-1,-1,-1,-1,-1,-1,-1,69,-1,-1",
+                        "endOffsets": "161,55,-1,-1,-1,-1,-1,-1,-1,531,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,205,253,307,360,412,462,505,559,629,686",
+                        "endColumns": "105,43,47,53,52,51,49,42,53,69,56,50",
+                        "endOffsets": "156,200,248,302,355,407,457,500,554,624,681,732"
+                    }
+                }
+            ]
+        }
+    ]
+}

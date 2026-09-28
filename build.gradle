@@ -1,0 +1,4 @@
+// 顶层构建文件。AGP 版本在 plugins 块中声明（apply false 表示仅声明，由 app 模块应用）。
+plugins {
+    id 'com.android.application' version '8.5.2' apply false
+}

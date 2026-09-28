@@ -1,0 +1,4 @@
+com.skipad.test.app-androidTest-0 C:\Users\dai79\WorkBuddy\2026-09-25-08-44-42\SkipAd\app\build\generated\res\resValues\androidTest\debug
+com.skipad.test.app-mergeDebugAndroidTestResources-1 C:\Users\dai79\WorkBuddy\2026-09-25-08-44-42\SkipAd\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.skipad.test.app-mergeDebugAndroidTestResources-2 C:\Users\dai79\WorkBuddy\2026-09-25-08-44-42\SkipAd\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.skipad.test.app-debugAndroidTest-3 C:\Users\dai79\WorkBuddy\2026-09-25-08-44-42\SkipAd\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
